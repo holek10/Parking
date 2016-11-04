@@ -5,7 +5,7 @@
 This repository contains the source code for an interactive app that displays real-time utilization of free parking spots for 4 public parking lots in city of Wroclaw, Poland.  
 
 ## About
-The app is built using [R](http://www.r-project.org) and [Shiny](http://shiny.rstudio.com) web framework (with [shinydashboard](https://rstudio.github.io/shinydashboard/) package), utilizing an excellent JavaScript library [Highcahrts](http://www.highcharts.com/) and its R wrapper - [highcharter](http://jkunst.com/highcharter/) package.
+The app is built using [R](http://www.r-project.org) and [Shiny](http://shiny.rstudio.com) web framework (with [shinydashboard](https://rstudio.github.io/shinydashboard/) package), utilizing an excellent JavaScript library [Higchahrts](http://www.highcharts.com/) and its R wrapper - [highcharter](http://jkunst.com/highcharter/) package.
 
 ## Data source
 Publicly available data from  [Wroclaw Open Data](http://www.wroclaw.pl/open-data/index.php/zbiory-danych/17-transport/124-zapelnienie-parkingow) repository, updated every 5-10 minutes. 
